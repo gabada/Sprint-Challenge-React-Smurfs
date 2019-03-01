@@ -1,3 +1,16 @@
 .App {
+  margin-top: 10px;
   text-align: center;
+}
+
+.NavBar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-active {
+  color: blue;
+  font-size: 20px;
+  border: 1px solid grey;
+  padding: 5px;
 }
