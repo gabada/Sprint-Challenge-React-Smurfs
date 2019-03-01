@@ -46,7 +46,10 @@ CRUD stands for Create. Read. Update, and Delete. The HTTP methods that are mapp
 
 
 
-- [ ] Mention three tools we can use to make AJAX requests.
+- [X] Mention three tools we can use to make AJAX requests.
+
+three tools that we can use to make AJAX requests are Promise, then, and catch.
+
 
 
 ## Project Set Up
